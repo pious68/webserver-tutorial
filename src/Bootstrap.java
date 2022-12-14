@@ -9,6 +9,7 @@ public final class Bootstrap {
 //        ConnectorBIOSocket connector = new ConnectorBIOSocket();
         Connector connector = new Connector();
         System.out.println("Dev BRANCH");
+        System.out.println("main add.");
         connector.start();
     }
 }
