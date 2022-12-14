@@ -10,6 +10,7 @@ public final class Bootstrap {
         Connector connector = new Connector();
         System.out.println("Dev BRANCH");
         System.out.println("branch dev add.");
+        System.out.println("github");
         connector.start();
     }
 }
